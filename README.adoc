@@ -1,0 +1,6 @@
+# ArgoCD for Janus IDP
+
+This repo contains build instructions to fetch code from https://github.com/RoadieHQ/roadie-backstage-plugins/, exclude everything but the ArgoCD plugins/packages, and configure them so they're buildable separately.
+
+This repo will also feed the build processes for Red Hat Plug-ins for Backstage.
+
